@@ -1,0 +1,8 @@
+In this project, our task is to explore trends of the steel imports from year 2013 to 2018 
+with respect to import steel’s price and quantities 
+and make a prediction on the unit price (in thousand dollars/Metric Tons) for future months. 
+(i.e. make projection on our data until September, October, November and December 2018).
+
+Project consists of 5 parts: Data exploration, Hypothesis tests, Classification, Model selection and Prediction.
+
+Data source: https://www.census.gov/foreign-trade/Press-Release/steel_index.html 
