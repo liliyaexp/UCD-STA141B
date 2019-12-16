@@ -5,4 +5,14 @@ and make a prediction on the unit price (in thousand dollars/Metric Tons) for fu
 
 Project consists of 5 parts: Data exploration, Hypothesis tests, Classification, Model selection and Prediction.
 
-Data source: https://www.census.gov/foreign-trade/Press-Release/steel_index.html 
+
+
+Data source: 
+    https://www.census.gov/foreign-trade/Press-Release/steel_index.html 
+    
+We use the data on U.S. Census Bureau, a principal agency of the U.S. Federal Statistical System, responsible for producing data.
+We use year-to-date and month-to-date datasets from year 2013 to 2018 on steel imports.
+
+We save the data from the website into two csv files:
+    p.csv: the steel import quantity and value with respect to different countries 
+    c.csv: the steel import is the steel import with respect to product type
